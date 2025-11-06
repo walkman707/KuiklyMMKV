@@ -36,7 +36,7 @@ object BuildPlugin {
 
 object MavenConfig {
     const val GROUP = "io.github.walkman707"
-    const val VERSION = "1.0.1"
+    const val VERSION = "1.0.2"
     const val VERSION_OHOS = "$VERSION-ohos"
     const val REPO_URL = "https://ossrh-staging-api.central.sonatype.com/service/local/staging/deploy/maven2"
     const val SNAPSHOT_REPO_URL = "https://central.sonatype.com/repository/maven-snapshots/"

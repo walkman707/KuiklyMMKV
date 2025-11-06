@@ -23,7 +23,7 @@ val commonMain by getting {
    dependencies {
       implementation("com.tencent.kuikly-open:core:${Version.getKuiklyVersion()}")
       implementation("com.tencent.kuikly-open:core-annotations:${Version.getKuiklyVersion()}")
-      implementation("io.github.walkman707:mmkvKotlin:1.0.1")
+      implementation("io.github.walkman707:mmkvKotlin:1.0.2")
    }
 }
 ...
@@ -36,7 +36,7 @@ val commonMain by getting {
    dependencies {
       implementation("com.tencent.kuikly-open:core:${Version.getKuiklyOhosVersion()}")
       implementation("com.tencent.kuikly-open:core-annotations:${Version.getKuiklyOhosVersion()}")
-      implementation("io.github.walkman707:mmkvKotlin:1.0.1")
+      implementation("io.github.walkman707:mmkvKotlin:1.0.2")
    }
 }
 ...

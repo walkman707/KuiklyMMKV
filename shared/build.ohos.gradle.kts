@@ -58,7 +58,7 @@ kotlin {
                 implementation("com.tencent.kuikly-open:core:${Version.getKuiklyOhosVersion()}")
                 implementation("com.tencent.kuikly-open:core-annotations:${Version.getKuiklyOhosVersion()}")
                 implementation(projects.mmkvKotlin)  // 源码编译
-//                implementation("io.github.walkman707:mmkvKotlin:1.0.1")
+//                implementation("io.github.walkman707:mmkvKotlin:1.0.2")
             }
         }
         val commonTest by getting {
