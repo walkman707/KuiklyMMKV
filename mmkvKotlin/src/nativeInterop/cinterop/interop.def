@@ -1,0 +1,3 @@
+package = com.tencent.mmkv
+headers = mmkv_c_wrapper.h
+staticLibraries = libmmkv_c_wrapper.so
