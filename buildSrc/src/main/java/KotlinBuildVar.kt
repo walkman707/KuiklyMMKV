@@ -91,12 +91,12 @@ object MavenConfig {
 fun MavenPom.configureMavenCentralMetadata() {
     name.set("KotlinMMKV")
     description.set("`KotlinMMKV` is a mmkv component that support Android/iOS/Ohos")
-    url.set("https://github.com/walkman707/x9nfof3keg")
+    url.set("https://github.com/walkman707/KuiklyMMKV")
 
     licenses {
         license {
             name.set("Apache-2.0 license")
-            url.set("https://github.com/walkman707/x9nfof3keg/blob/main/LICENSE")
+            url.set("https://github.com/walkman707/KuiklyMMKV/blob/main/LICENSE")
         }
     }
 
@@ -107,7 +107,7 @@ fun MavenPom.configureMavenCentralMetadata() {
         }
     }
     scm {
-        url.set("https://github.com/walkman707/x9nfof3keg")
+        url.set("https://github.com/walkman707/KuiklyMMKV")
     }
 }
 
